@@ -1,0 +1,140 @@
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+}
+
+h1 {
+  width: 30%;
+  margin: 50px auto 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 250px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 20px;
+}
+
+.laptop {
+  float:left;
+  margin-right: 30px;
+}
+
+.chilly {
+  float:right;
+  margin-left: 30px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: 'Merriweather', serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  margin-top: 50px;
+  padding-top: 30px;
+  font-size: 22px;
+  font-family: 'Merriweather', serif;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 0 auto;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.contact-msg {
+  width: 40%;
+  margin: 40px auto 60px;
+  font-size: 18px;
+}
+
+a {
+  color: #11999E;
+  font-size: 22px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #30e3cb;
+}
+
+.copyright {
+  color: #EAF6F6;
+  padding: 10px 0;
+  font-size: 12px;
+}
